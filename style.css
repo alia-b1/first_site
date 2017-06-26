@@ -2,6 +2,8 @@ header {
   text-align: center;
   color: white;
   background-color: thistle;
+  border-style: solid;
+  border-width: 3px;
 }
 h1 {
   color: red;
@@ -26,13 +28,19 @@ p{
   text-align: center;
   font-family: serif;
   font-size: 20px;
-  color: black;
+  color: white;
 }
 .fast_food {
   text-align: center;
 }
 a {
-  color: black;
+  color: white;
+  font-size: 20px;
+  font-family: serif;
+}
+.table {
+  text-align: center;
+  color: white;
   font-size: 20px;
   font-family: serif;
 }
