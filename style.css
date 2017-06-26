@@ -1,25 +1,38 @@
+header {
+  text-align: center;
+  color: white;
+  background-color: thistle;
+}
 h1 {
   color: red;
   font-family: fantasy;
 }
 
-.center-class {
+h1{
   text-align: center;
   font-family: serif;
   font-size: 30px;
 }
 body {
-  background-color: thistle;
+  background-image: url("background_image.jpg");
 }
-.middle-class {
+h2{
   text-align: center;
   font-family: serif;
   font-size: 20px;
   color: black;
 }
-.final-class {
+p{
   text-align: center;
   font-family: serif;
   font-size: 20px;
   color: black;
+}
+.fast_food {
+  text-align: center;
+}
+a {
+  color: black;
+  font-size: 20px;
+  font-family: serif;
 }
